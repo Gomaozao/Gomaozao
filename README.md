@@ -4,6 +4,10 @@ I'm Caio, A Software Developer from Brazil building experience for FullStack(Mai
 - My Goal is to build performant software. And for that i am working on understanding how to differentiate
 good code from bad code.
 
+### Known Technologies
+
+## C, Go, Rust, Python, JavaScript, SQL
+
 <!--
 **Gomaozao/Gomaozao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
