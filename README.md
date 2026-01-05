@@ -6,7 +6,7 @@ good code from bad code.
 
 ### Known Technologies:
 
-## C, Go, Rust, Python, JavaScript, Ruby, SQL, Postgree, 
+## C, Go, Rust, Python, C#, JavaScript, Ruby, SQL, Postgree
 
 <!--
 **Gomaozao/Gomaozao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
